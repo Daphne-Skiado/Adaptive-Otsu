@@ -7,8 +7,8 @@ To run the code type: python3 adaptive_otsu.py <input_image_path> <output_image_
 
 For the example run "python3 adaptive_otsu.py input_image.png output_image.png 30" , the following image transformation is performed.
 
-# Input image
-![Image of Yaktocat] (https://github.com/Daphne-Skiado/Adaptive-Otsu/blob/master/input_image.png)
+### Input image
+![Image of Yaktocat](https://github.com/Daphne-Skiado/Adaptive-Otsu/blob/master/input_image.png)
 
-# Output image
-![Image of Yaktocat] (https://github.com/Daphne-Skiado/Adaptive-Otsu/blob/master/output_image.png)
+### Output image
+![Image of Yaktocat](https://github.com/Daphne-Skiado/Adaptive-Otsu/blob/master/output_image.png)
